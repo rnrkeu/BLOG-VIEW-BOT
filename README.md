@@ -14,9 +14,9 @@ BE SIMPLE
 
 INSTALLATION
 
-		pip install pyautogui
-		
-		pip install tor
+	pip install pyautogui
+	
+	pip install tor
 
 Run "Main.py"
 
