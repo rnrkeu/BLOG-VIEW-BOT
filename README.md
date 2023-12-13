@@ -22,3 +22,5 @@ INSTALLATION
 
 Run "Main.py"
 
+
+IF AND 'ERROR' OCCUR ASK "CHAT GPT" TO FIX IT YOU !!!!!!
