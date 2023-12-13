@@ -5,7 +5,7 @@ import random
 while True:
     pyautogui.hotkey('ctrl', 'alt', 't')
     time.sleep(1)
-    pyautogui.write('python Desktop/Blog/Test.py')
+    pyautogui.write('python Desktop/Blog/Code.py')
     time.sleep(0.5)
     pyautogui.press('enter')
     time.sleep(0.5)
